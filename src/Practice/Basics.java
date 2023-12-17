@@ -52,7 +52,7 @@ public class Basics {
 	//array=collection of elements
 	//multidimensional array= collection of arrays 
 
-	return new Object[][] {{"acd", "414", "Tushar Turkane", "Postman Automation with JavaScript"},{"bcd", "413", "Anand Bohara", "Automation BDD Framework From Scratch"}, {"ccd", "412", "Tushar Turkane", "Java Basics"} };
+	return new Object[][] {{"acd", "414", "Tushar Turkane", "Postman Automation with JavaScript"},{"bcd", "413", "Rahul", "Automation BDD Framework From Scratch"}, {"ccd", "412", "Anand", "Java Basics"} };
 
 	}
 }
